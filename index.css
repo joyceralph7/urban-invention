@@ -1,0 +1,13 @@
+body {
+  font-family:"Lato";
+  font-size:14px;
+}
+#wrapper {
+  width:1000px
+  height:auto;
+  margin-left:auto;
+  margin-right:auto;
+}
+#wrapper h1 {
+  color: blue;
+}
