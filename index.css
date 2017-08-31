@@ -11,3 +11,9 @@ body {
 #wrapper h1 {
   color: blue;
 }
+section {
+  background: url(https://image.shutterstock.com/z/stock-photo-abstract-polygonal-space-low-poly-dark-background-with-connecting-dots-and-lines-connection-503725969.jpg);
+  font-weight: bold;
+  font-size: 20px;
+  color: red;
+}
