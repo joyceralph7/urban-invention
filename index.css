@@ -9,11 +9,20 @@ body {
   margin-right:auto;
 }
 #wrapper h1 {
-  color: blue;
+  color: red;
 }
 section {
   background: url(https://image.shutterstock.com/z/stock-photo-abstract-polygonal-space-low-poly-dark-background-with-connecting-dots-and-lines-connection-503725969.jpg);
   font-weight: bold;
   font-size: 20px;
   color: red;
+}
+section h2{
+  color: green;
+
+}
+body h2{
+
+  color: blue;
+  
 }
